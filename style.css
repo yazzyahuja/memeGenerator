@@ -1,0 +1,30 @@
+button{
+  background-color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 30px;
+  font-family: "Impact";
+}
+
+h1{
+  color: #FFF469;
+  background-color: #69BFFF;
+  font-family: "Impact";
+  font-size: 60px;
+}
+h2{
+  color: #FFF469;
+  background-color: #69BFFF;
+  font-family: "Impact";
+  font-size: 40px;
+}
+body{
+  background-image: url(https://data.whicdn.com/images/192740179/large.jpg);
+}
+p{
+  color: #FF6DE6;
+  background-color: #69BFFF;
+  font-size: 30px;
+  font-family: "Impact";
+  font-size: 100px;
+}
